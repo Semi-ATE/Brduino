@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Brduino-Main.SchDoc
+Record=SheetSymbol|SourceDocument=Brduino-Main.SchDoc|Designator=U_Brduino-MCU-Main|SchDesignator=U_Brduino-MCU-Main|FileName=Brduino-MCU-Main.SchDoc|SymbolType=Normal|RawFileName=Brduino-MCU-Main.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Brduino-Main.SchDoc|Designator=U_Brduino-PwrLin|SchDesignator=U_Brduino-PwrLin|FileName=Brduino-PwrLin.SchDoc|SymbolType=Normal|RawFileName=Brduino-PwrLin.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Brduino-MCU-Main.SchDoc|Designator=U_Brduino-MCU1|SchDesignator=U_Brduino-MCU1|FileName=Brduino-MCU1.SchDoc|SymbolType=Normal|RawFileName=Brduino-MCU1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
