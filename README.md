@@ -1,10 +1,10 @@
 # Brduino-Nano
 
-Brduino-Nano is a 'jeux de mots Vis-à-vis' [Arduino-Nano](https://store.arduino.cc/arduino-nano)
+Brduino-Nano is a 'jeux de mots Vis-à-vis' [Arduino-Nano](https://store.arduino.cc/arduino-nano).
 
 Whereas the Arduino Nano is based on the [8-Bit ATmega328 controller from Microchip](https://www.microchip.com/wwwproducts/en/ATmega328), the Brduino Nano is based on the [32-Bit Arm Cortex M4 from NXP](https://www.nxp.com/part/MK22FN512VLH12#/).
 
-Below a quick comparison of the Arduino-Nano against the Brduino-Nano
+Below a quick comparison of the Arduino-Nano against the Brduino-Nano :
 
 |  | Arduino-Nano | Brduino-Nano |        
 |---|:---|:---|
@@ -25,3 +25,9 @@ Below a quick comparison of the Arduino-Nano against the Brduino-Nano
 | Power Consumption | 19 mA | |
 | PCB Size | 18 x 45 mm | 18 x 45 mm |
 | Weight |	7 g | 7 g |
+
+The Brduino ofcourse doesn't use the ugly [arduino IDE](https://www.arduino.cc/en/main/software) but the [eclipse](https://www.eclipse.org/) based [MCUXpresso](https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE) .
+
+Connecting from your IDE to the Brduino is done via ... 
+
+[JLink](https://www.segger.com/products/debug-probes/j-link/models/model-overview/), but we advise to go for the [JLink Pro](https://www.segger.com/products/debug-probes/j-link/models/j-link-pro/) in combination with the [10-Pin Needle Adapter](https://www.segger.com/products/debug-probes/j-link/accessories/adapters/10-pin-needle-adapter/)   
