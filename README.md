@@ -1,2 +1,4 @@
-# Brduino
-Arduino clone with Arm Cortex M4 processor
+# Brduino-Nano
+
+Brduino-Nano is a 'jeux de mots Vis-à-vis' [Arduino-Nano](https://store.arduino.cc/arduino-nano)
+
