@@ -1,6 +1,6 @@
 # Brduino-Nano
 
-Brduino-Nano is a 'jeux de mots Vis-à-vis' [Arduino-Nano](https://store.arduino.cc/arduino-nano).
+Brduino-Nano is a 'jeux de mots vis-à-vis' [Arduino-Nano](https://store.arduino.cc/arduino-nano).
 
 It is an open-source project that brings the Arduino-Nano form-factor into this century. :sunglasses:  
 
