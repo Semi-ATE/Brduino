@@ -32,7 +32,7 @@ Below a quick comparison of the Arduino-Nano against the Brduino-Nano :
 
 The Brduino ofcourse doesn't use the ugly [arduino IDE](https://www.arduino.cc/en/main/software) but the [eclipse](https://www.eclipse.org/) based [MCUXpresso](https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE) :stuck_out_tongue_winking_eye:.
 
-Connecting from your IDE to the Brduino is done via a [JLink](https://www.segger.com/products/debug-probes/j-link/models/model-overview/), but we advise to go for the [JLink Pro](https://www.segger.com/products/debug-probes/j-link/models/j-link-pro/) in combination with the [10-Pin Needle Adapter](https://www.segger.com/products/debug-probes/j-link/accessories/adapters/10-pin-needle-adapter/) as the Brduino holds such a connector.
+Connecting from your IDE to the Brduino is done via a [JLink Pro](https://www.segger.com/products/debug-probes/j-link/models/j-link-pro/) in combination with the [10-Pin Needle Adapter](https://www.segger.com/products/debug-probes/j-link/accessories/adapters/10-pin-needle-adapter/).
 
 The project is realized in [Altium Designer](https://www.altium.com/altium-designer/), but, as the gerbers are included in the repo, you can produce the Brduino yourself without having Altium license(s), or alternatively you can contact [Thomas Arul](thomasarul@likom.com.my) at [Likom](http://www.likom.com.my/) to get a quote for these things. 
 
