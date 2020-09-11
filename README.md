@@ -6,7 +6,8 @@ Whereas the Arduino Nano is based on the [8-Bit ATmega328 controller from Microc
 
 Below a quick comparison of the Arduino-Nano against the Brduino-Nano
 
-| . | Arduino-Nano | Brduino-Nano |        
+|  | Arduino-Nano | Brduino-Nano |        
+|---|:---|:---|
 | Microcontroller | ATmega328 | MK22FN512VLH12 |
 Architecture 	AVR
 Operating Voltage 	5 V
