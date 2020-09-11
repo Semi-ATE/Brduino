@@ -34,5 +34,5 @@ The Brduino ofcourse doesn't use the ugly [arduino IDE](https://www.arduino.cc/e
 
 Connecting from your IDE to the Brduino is done via a [JLink](https://www.segger.com/products/debug-probes/j-link/models/model-overview/), but we advise to go for the [JLink Pro](https://www.segger.com/products/debug-probes/j-link/models/j-link-pro/) in combination with the [10-Pin Needle Adapter](https://www.segger.com/products/debug-probes/j-link/accessories/adapters/10-pin-needle-adapter/) as the Brduino holds such a connector.
 
-The project is realized in [Altium Designer](https://www.altium.com/altium-designer/), but, as the gerbers are included in the repo, you can produce the Brduino yourself without having Altium license(s), or alternatively you can contact Thomas Arul at Likom to get a quote for these things. 
+The project is realized in [Altium Designer](https://www.altium.com/altium-designer/), but, as the gerbers are included in the repo, you can produce the Brduino yourself without having Altium license(s), or alternatively you can contact [Thomas Arul](thomasarul@likom.com.my) at [Likom](http://www.likom.com.my/) to get a quote for these things. 
 
