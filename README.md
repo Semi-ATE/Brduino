@@ -11,7 +11,7 @@ Below a quick comparison of the Arduino-Nano against the Brduino-Nano :
 |  | Arduino-Nano | Brduino-Nano |        
 |---|:---|:---|
 | Microcontroller | [ATmega328](https://www.microchip.com/wwwproducts/en/ATmega328) | [MK22FN512VLH12](https://www.nxp.com/part/MK22FN512VLH12#/) |
-| Architecture | 8-Bit | 32-Bit |
+| Architecture | 8-Bit AVR | 32-Bit Cortex M4 |
 | Operating Voltage |  5 V | 3.3 V |
 | Flash Memory | 32 KB | 512 KB |
 | SRAM | 2 KB | 128 KB |
