@@ -26,7 +26,7 @@ Below a quick comparison of the Arduino-Nano against the Brduino-Nano :
 | PCB Size | 18 x 45 mm | 18 x 45 mm |
 | Weight |	7 g | 7 g |
 
-The Brduino ofcourse doesn't use the ugly [arduino IDE](https://www.arduino.cc/en/main/software) but the [eclipse](https://www.eclipse.org/) based [MCUXpresso](https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE) .
+The Brduino ofcourse doesn't use the ugly [arduino IDE](https://www.arduino.cc/en/main/software) but the [eclipse](https://www.eclipse.org/) based [MCUXpresso](https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE) :stuck_out_tongue_winking_eye:.
 
 Connecting from your IDE to the Brduino is done via ... 
 
