@@ -4,12 +4,9 @@ Brduino-Nano is a 'jeux de mots vis-à-vis' [Arduino-Nano](https://store.arduino
 
 It is an open-source project sponsored by [RevisionOne](https://www.revisionone.de/) that brings the Arduino-Nano form-factor into this century. :sunglasses:
 
-
-
-Whereas the Arduino Nano is based on the [8-Bit ATmega328](https://www.microchip.com/wwwproducts/en/ATmega328) controller from [Microchip](https://www.microchip.com/), the Brduino Nano is based on the [32-Bit Arm Cortex M4](https://developer.arm.com/ip-products/processors/cortex-m/cortex-m4) from [NXP](https://www.nxp.com/part/MK22FN512VLH12#/). 
-
 ![Brduino-Nano](documentation/pictures/Brduino-Nano.png)
 
+Whereas the Arduino Nano is based on the [8-Bit ATmega328](https://www.microchip.com/wwwproducts/en/ATmega328) controller from [Microchip](https://www.microchip.com/), the Brduino Nano is based on the [32-Bit Arm Cortex M4](https://developer.arm.com/ip-products/processors/cortex-m/cortex-m4) from [NXP](https://www.nxp.com/part/MK22FN512VLH12#/). 
 Below a quick comparison of the Arduino-Nano against the Brduino-Nano :
 
 |  | Arduino-Nano | Brduino-Nano |        
