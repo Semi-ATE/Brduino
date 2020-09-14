@@ -146,7 +146,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -163,7 +163,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -180,7 +180,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -197,7 +197,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -259,40 +259,48 @@ DocumentPath=.\Output\Design\ERC\Brduino-Nano.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Output\Design\DRC\Brduino-Nano.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Output\Design\ERC\Brduino-Nano.html
+DItemRevisionGUID=
+
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Brduino-Nano\Brduino-Nano.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=project_Team
-Value=RevisionOne
+Name=Project_CheckedBy
+Value=Hören
 
 [Parameter2]
-Name=Project_Revision
-Value=V1.0
-
-[Parameter3]
-Name=Project_Repository
-Value=https://github.com/Semi-ATE/Brduino-Nano
-
-[Parameter4]
-Name=Project_Number
-Value=U33115
-
-[Parameter5]
-Name=Project_Name
-Value=Brduino-Nano
-
-[Parameter6]
-Name=Project_Engineer
-Value=Mörz
-
-[Parameter7]
 Name=Project_DrawnBy
 Value=Mörz
 
+[Parameter3]
+Name=Project_Engineer
+Value=Mörz
+
+[Parameter4]
+Name=Project_Name
+Value=Brduino-Nano
+
+[Parameter5]
+Name=Project_Number
+Value=U33115
+
+[Parameter6]
+Name=Project_Repository
+Value=https://github.com/Semi-ATE/Brduino-Nano
+
+[Parameter7]
+Name=Project_Revision
+Value=V1.0
+
 [Parameter8]
-Name=Project_CheckedBy
-Value=Hören
+Name=project_Team
+Value=RevisionOne
 
 [Configuration1]
 Name=Sources

@@ -88,7 +88,7 @@ Configuration3_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType4=BOM_PartType
 OutputName4=Bill of Materials
 OutputCategory4=Report
-OutputDocumentPath4=Brduino-Nano.PcbDoc
+OutputDocumentPath4=
 OutputVariantName4=
 OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
@@ -99,7 +99,7 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration4_Name1=ColumnNameFormat
 Configuration4_Item1=CaptionAsName
 Configuration4_Name2=General
-Configuration4_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=libraries\BOM_template.xlsx|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=EUR|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration4_Item2=OpenExported=True|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=C:\Users\hoeren\Desktop\Repos\Semi-ATE\Brduino-Nano\hardware\electornics\altium\20.1.12\Libs\BOM_template.xlsx|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=EUR|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration4_Name3=GroupOrder
 Configuration4_Item3=Description=True
 Configuration4_Name4=SortOrder
@@ -135,7 +135,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\hoeren\Desktop\Repos\Semi-ATE\PCB-Tester\hardware\electronics\altium\20.1.12\PCB-Tester-Board\.\Output\Assembly\
+OutputFilePath3=C:\Users\hoeren\Desktop\Repos\Semi-ATE\Brduino-Nano\hardware\electornics\altium\20.1.12\.\Output\Assembly\
 ReleaseManaged3=0
 OutputBasePath3=.\
 OutputPathMedia3=Output\Assembly
@@ -152,7 +152,7 @@ OpenOutput3=0
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\hoeren\Desktop\Repo's\ate-org\PCB-Tester\hardware\electronics\altium\PCB-Relay-Board\V1\.\Assembly.PDF
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\hoeren\Desktop\Repos\Semi-ATE\PCB-Tester\hardware\electronics\altium\20.1.12\PCB-Tester-Board\.\Output\Assembly\
+RelativeOutputPath3=C:\Users\hoeren\Desktop\Repos\Semi-ATE\Brduino-Nano\hardware\electornics\altium\20.1.12\.\Output\Assembly\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0

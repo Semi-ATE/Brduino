@@ -2,36 +2,38 @@
 FileName = Brduino-Nano.GBR
 AutoAperture = True
 *************************************************************
-Generating : Drill Drawing
-      File : Brduino-Nano.GD1
+Generating : Bottom Layer
+      File : Brduino-Nano.GBL
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Mechanical 1
 
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D12
-    D77
-    D78
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : Brduino-Nano.GG1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D12
-    D77
+    D13
+    D15
+    D20
+    D21
+    D24
+    D46
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
 *************************************************************
 
 *************************************************************
@@ -50,19 +52,31 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Brduino-Nano.GTO
+Generating : Bottom Paste
+      File : Brduino-Nano.GBP
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Mechanical 1
 
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
 
 Used DCodes :
-    D10
-    D11
     D12
-    D13
+    D15
+    D20
+    D21
+    D24
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
 *************************************************************
 
 *************************************************************
@@ -134,41 +148,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : Brduino-Nano.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D15
-    D20
-    D21
-    D24
-    D46
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
       File : Brduino-Nano.GTP
 
@@ -197,31 +176,19 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Brduino-Nano.GBP
+Generating : Top Overlay
+      File : Brduino-Nano.GTO
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Top Overlay
 
     Adding Layer      : Mechanical 1
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
 
 Used DCodes :
+    D10
+    D11
     D12
-    D15
-    D20
-    D21
-    D24
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
+    D13
 *************************************************************
 
 *************************************************************
@@ -240,6 +207,30 @@ Used DCodes :
     D13
     D45
     D46
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : InternalPlane1
+      File : Brduino-Nano.GP1
+
+    Adding Layer      : InternalPlane1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D45
     D54
     D55
     D56
@@ -288,26 +279,35 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : InternalPlane1
-      File : Brduino-Nano.GP1
-
-    Adding Layer      : InternalPlane1
+Generating : Drill Drawing
+      File : Brduino-Nano.GD1
 
     Adding Layer      : Mechanical 1
 
-    Adding Layer      : Multi-Layer
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
     D12
-    D13
-    D45
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Brduino-Nano.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D12
+    D77
 *************************************************************
 

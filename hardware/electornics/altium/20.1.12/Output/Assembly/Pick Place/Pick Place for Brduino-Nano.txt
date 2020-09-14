@@ -5,8 +5,8 @@ C:\Users\hoeren\Desktop\Repos\Semi-ATE\Brduino-Nano\hardware\electornics\altium\
 File Design Information:
 
 Date:       14/09/20
-Time:       18:38
-Revision:   Not in VersionControl
+Time:       19:25
+Revision:   689b620d113bce8826cd0108ee08fb3e9c5e6355
 Variant:    No variations
 Units used: mil
 

@@ -35,34 +35,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Brduino-Nano.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D12
-    D17
-    D18
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
       File : Brduino-Nano.GTP
 
@@ -88,5 +60,33 @@ Used DCodes :
     D19
     D20
     D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Brduino-Nano.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D17
+    D18
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
 *************************************************************
 
