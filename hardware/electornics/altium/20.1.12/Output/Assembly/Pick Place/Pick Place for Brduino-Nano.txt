@@ -1,0 +1,60 @@
+Altium Designer Pick and Place Locations
+C:\Users\hoeren\Desktop\Repos\Semi-ATE\Brduino-Nano\hardware\electornics\altium\20.1.12\.\Output\Assembly\Pick Place\Pick Place for Brduino-Nano.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       14/09/20
+Time:       18:38
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment Layer       Footprint        Center-X(mil) Center-Y(mil) Rotation Description                            
+Y1         Y       BottomLayer CM7V-T1A         890.512       571.812       180      "Crystals 32.768 kHz 9.0 pF +/-20 PPM" 
+U2         U       TopLayer    S-PVQFN-N20      1572.598      787.480       0        "IC REG LINEAR POS ADJ 2A 20VQFN"      
+J5         J       TopLayer    JumperSMD        1360.701      928.701       180      "RES SMD 0 OHM JUMPER 1/10W 0603"      
+R5         R       BottomLayer R0402            1056.701      726.701       90       "RES SMD 0 OHM JUMPER 1/16W 0402"      
+Y2         Y       TopLayer    FA-238           1355.701      585.701       180      "CRYSTAL 24.0000MHZ 18PF SMD"          
+U1         U       TopLayer    NXP-SOT1699-1    988.937       772.716       0        "IC MCU 32BIT 512KB FLASH 64LQFP"      
+R25        R       TopLayer    R0402            1677.913      636.890       360      "RES SMD 3.9K OHM 1% 1/16W 0402"       
+R20        R       BottomLayer R0402            1478.110      741.221       270      "RES SMD 4.7K OHM 1% 1/16W 0402"       
+R16        R       BottomLayer R0402            1092.701      781.701       90       "RES SMD 10K OHM 1% 1/16W 0402"        
+R15        R       BottomLayer R0402            1092.701      845.701       90       "RES SMD 4.7K OHM 1% 1/16W 0402"       
+R9         R       BottomLayer R0402            1352.701      597.701       270      "RES SMD 1M OHM 1% 1/16W 0402"         
+R8         R       BottomLayer R0402            1007.701      681.701       360      "RES SMD 10K OHM 1% 1/16W 0402"        
+R7         R       TopLayer    R0402            1907.244      550.273       270      "RES SMD 33 OHM 1% 1/16W 0402"         
+R6         R       BottomLayer R0402            2009.606      730.394       270      "RES SMD 10K OHM 1% 1/16W 0402"        
+R4         R       BottomLayer R0402            1071.701      676.701       360      "RES SMD 100 OHM 1% 1/16W 0402"        
+R3         R       TopLayer    R0402            1325.701      677.701       0        "RES SMD 22 OHM 1% 1/16W 0402"         
+R2         R       TopLayer    R0402            1274.701      687.701       90       "RES SMD 4.7K OHM 1% 1/16W 0402"       
+R1         R       BottomLayer R0402            878.701       809.701       180      "RES SMD 0 OHM JUMPER 1/16W 0402"      
+Q1         Q       BottomLayer SOT323           1833.425      755.984       180      "MOSFET N-CHANNEL 30V 1A SC70"         
+L1         L       BottomLayer L0805            888.701       687.701       180      "FERRITE BEAD 600 OHM 0805 1LN"        
+J4         J       TopLayer    JumperSMD        1521.417      938.071       180      "RES SMD 0 OHM JUMPER 1/10W 0603"      
+J3         J       TopLayer    Molex-0565790519 569.701       796.701       360      "MICRO B SKT, BOTTOM-SMT, R/A, 30"     
+J2         J       TopLayer    JLINK-NEEDLE     1918.071      791.417       90       JLINK-NEEDLE                           
+J1         J       BottomLayer ARDUINO-NANO     1253.701      773.701       180      ARDUINO-NANO                           
+D6         D       TopLayer    LED0603          1735.984      725.472       90       "LED GREEN CLEAR 1608 SMD"             
+D1         D       BottomLayer SOT23            1007.701      823.701       270      "DIODE ARRAY SCHOTTKY 30V SOT23-3"     
+C22        C       TopLayer    C0402            1730.079      793.386       360      "CAP CER 10000PF 50V X7R 0402"         
+C21        C       BottomLayer C0805            1611.968      692.008       360      "CAP CER 10UF 25V X5R 0805"            
+C20        C       BottomLayer C0805            1659.213      792.402       90       "CAP CER 10UF 25V X5R 0805"            
+C19        C       BottomLayer C0402            1478.110      811.102       270      "CAP CER 10000PF 50V X7R 0402"         
+C18        C       BottomLayer C0805            1569.646      879.016       180      "CAP CER 22UF 10V X5R 0805"            
+C17        C       BottomLayer C0402            1401.701      640.701       360      "CAP CER 22PF 16V C0G/NP0 0402"        
+C16        C       BottomLayer C0402            1282.701      579.701       180      "CAP CER 22PF 16V C0G/NP0 0402"        
+C14        C       BottomLayer C0805            775.701       747.701       270      "CAP CER 4.7UF 10V X7R 0805"           
+C13        C       BottomLayer C0402            930.701       739.701       180      "CAP CER 0.1UF 25V X7R 0402"           
+C12        C       BottomLayer C0402            742.701       552.701       180      "CAP CER 0.1UF 25V X7R 0402"           
+C11        C       BottomLayer C0402            785.701       870.701       270      "CAP CER 0.1UF 25V X7R 0402"           
+C10        C       BottomLayer C0402            1125.701      575.701       360      "CAP CER 0.1UF 25V X7R 0402"           
+C9         C       BottomLayer C0402            1209.409      895.748       360      "CAP CER 0.1UF 25V X7R 0402"           
+C8         C       BottomLayer C0805            1104.701      964.701       180      "CAP CER 10UF 10V X7R 0805"            
+C7         C       TopLayer    C0805            609.701       546.701       180      "CAP CER 10UF 10V X7R 0805"            
+C6         C       TopLayer    C0402            1325.701      711.701       0        "CAP CER 0.1UF 25V X7R 0402"           
+C5         C       BottomLayer C0402            878.701       776.701       360      "CAP CER 0.1UF 25V X7R 0402"           
+C4         C       BottomLayer C0402            867.701       842.701       360      "CAP CER 0.1UF 25V X7R 0402"           
+C3         C       BottomLayer C0603            884.701       883.701       360      "CAP CER 2.2UF 10V X5R 0603"           
+C2         C       BottomLayer C0402            762.701       645.701       270      "CAP CER 0.1UF 25V X7R 0402"           
+C1         C       BottomLayer C0402            795.701       645.701       270      "CAP CER 0.1UF 25V X7R 0402"           

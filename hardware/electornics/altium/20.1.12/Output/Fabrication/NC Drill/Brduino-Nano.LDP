@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\hoeren\Desktop\Repos\Semi-ATE\Brduino-Nano\hardware\electornics\altium\20.1.12\Brduino-Nano.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=brduino-nano-roundholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=brduino-nano-slotholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=brduino-nano-roundholes-nonplated.txt|DrillLayers=gtl,gp1,gp2,gbl
