@@ -8,7 +8,7 @@ It is an open-source project sponsored by [RevisionOne](https://www.revisionone.
 
 Whereas the Arduino Nano is based on the [8-Bit ATmega328](https://www.microchip.com/wwwproducts/en/ATmega328) controller from [Microchip](https://www.microchip.com/), the Brduino Nano is based on the [32-Bit Arm Cortex M4](https://developer.arm.com/ip-products/processors/cortex-m/cortex-m4) from [NXP](https://www.nxp.com/part/MK22FN512VLH12#/). 
 
-=== image here ===
+![Brduino-Nano](documentation/pictures/Brduino-Nano.png)
 
 Below a quick comparison of the Arduino-Nano against the Brduino-Nano :
 
