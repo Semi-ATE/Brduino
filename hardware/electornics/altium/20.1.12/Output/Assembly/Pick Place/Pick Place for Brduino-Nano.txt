@@ -4,9 +4,9 @@ C:\Users\hoeren\Desktop\Repos\Semi-ATE\Brduino-Nano\hardware\electornics\altium\
 ========================================================================================================================
 File Design Information:
 
-Date:       14/09/20
-Time:       19:25
-Revision:   689b620d113bce8826cd0108ee08fb3e9c5e6355
+Date:       18/09/20
+Time:       11:52
+Revision:   1d80a3ae7df6b664ea06ad6c81e469af125a7789
 Variant:    No variations
 Units used: mil
 
@@ -34,7 +34,6 @@ L1         L       BottomLayer L0805            888.701       687.701       180 
 J4         J       TopLayer    JumperSMD        1521.417      938.071       180      "RES SMD 0 OHM JUMPER 1/10W 0603"      
 J3         J       TopLayer    Molex-0565790519 569.701       796.701       360      "MICRO B SKT, BOTTOM-SMT, R/A, 30"     
 J2         J       TopLayer    JLINK-NEEDLE     1918.071      791.417       90       JLINK-NEEDLE                           
-J1         J       BottomLayer ARDUINO-NANO     1253.701      773.701       180      ARDUINO-NANO                           
 D6         D       TopLayer    LED0603          1735.984      725.472       90       "LED GREEN CLEAR 1608 SMD"             
 D1         D       BottomLayer SOT23            1007.701      823.701       270      "DIODE ARRAY SCHOTTKY 30V SOT23-3"     
 C22        C       TopLayer    C0402            1730.079      793.386       360      "CAP CER 10000PF 50V X7R 0402"         

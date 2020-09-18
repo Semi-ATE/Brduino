@@ -64,6 +64,7 @@ D72   RECTANGULAR        40.000      54.000       0.000 FLASH     270.000
 D73   RECTANGULAR        43.370      74.866       0.000 FLASH     180.000
 D74   RECTANGULAR        39.433      33.528       0.000 FLASH     270.000
 D75   RECTANGULAR        25.654      45.339       0.000 FLASH      90.000
-D76   RECTANGULAR       532.929      93.000       0.000 FLASH       0.000
-D77   ROUNDED             2.000       2.000       0.000  LINE       0.000
-D78   ROUNDED             2.665       2.665       0.000  LINE       0.000
+D76   ROUNDED            24.000      24.000       0.000 FLASH       0.000
+D77   RECTANGULAR       532.929      93.000       0.000 FLASH       0.000
+D78   ROUNDED             2.000       2.000       0.000  LINE       0.000
+D79   ROUNDED             2.665       2.665       0.000  LINE       0.000
