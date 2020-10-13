@@ -7,4 +7,4 @@ From  : PCB Document [Brduino-Nano.PcbDoc]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 11:51:47 AM On 9/18/2020
+Finished Output Generation At 1:16:14 PM On 10/13/2020

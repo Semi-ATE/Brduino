@@ -2,41 +2,19 @@
 FileName = Brduino-Nano.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : Brduino-Nano.GTL
+Generating : Top Overlay
+      File : Brduino-Nano.GTO
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Top Overlay
 
     Adding Layer      : Mechanical 1
 
-    Adding Layer      : Multi-Layer
-
 
 Used DCodes :
+    D10
+    D11
     D12
     D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
 *************************************************************
 
 *************************************************************
@@ -73,81 +51,38 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Brduino-Nano.GBS
+Generating : Top Solder
+      File : Brduino-Nano.GTS
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Solder
 
     Adding Layer      : Mechanical 1
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D12
+    D26
+    D27
     D28
+    D29
+    D30
+    D31
+    D32
     D33
     D34
+    D35
+    D36
     D37
     D38
     D39
     D40
     D41
     D42
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Brduino-Nano.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D15
-    D20
-    D21
-    D24
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Brduino-Nano.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
+    D43
 *************************************************************
 
 *************************************************************
@@ -164,11 +99,11 @@ Generating : Bottom Layer
 Used DCodes :
     D12
     D13
-    D15
-    D20
+    D16
     D21
-    D24
-    D46
+    D22
+    D25
+    D45
     D48
     D49
     D50
@@ -199,7 +134,7 @@ Generating : InternalPlane1
 Used DCodes :
     D12
     D13
-    D45
+    D46
     D54
     D55
     D56
@@ -207,6 +142,44 @@ Used DCodes :
     D58
     D59
     D60
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Brduino-Nano.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
 *************************************************************
 
 *************************************************************
@@ -220,8 +193,33 @@ Generating : Bottom Overlay
 
 Used DCodes :
     D12
-    D46
+    D45
     D77
+*************************************************************
+
+*************************************************************
+Generating : InternalPlane2
+      File : Brduino-Nano.GP2
+
+    Adding Layer      : InternalPlane2
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D45
+    D46
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
 *************************************************************
 
 *************************************************************
@@ -250,65 +248,68 @@ Used DCodes :
     D22
     D23
     D24
+    D25
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : Brduino-Nano.GTS
+Generating : Bottom Paste
+      File : Brduino-Nano.GBP
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Mechanical 1
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D12
+    D16
+    D21
+    D22
     D25
-    D26
-    D27
-    D28
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Brduino-Nano.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
     D29
-    D30
-    D31
-    D32
-    D33
     D34
     D35
-    D36
-    D37
     D38
     D39
     D40
     D41
     D42
-*************************************************************
-
-*************************************************************
-Generating : InternalPlane2
-      File : Brduino-Nano.GP2
-
-    Adding Layer      : InternalPlane2
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D45
-    D46
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
+    D43
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
 *************************************************************
 
