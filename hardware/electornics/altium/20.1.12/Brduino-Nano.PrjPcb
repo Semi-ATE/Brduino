@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CJPIOBWR
+DocumentUniqueId=THLKIBRL
 
 [Document5]
 DocumentPath=Libs\Brduino-Nano.SCHLIB
@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DGMIATJQ
+DocumentUniqueId=PDYAQXZW
 
 [Document6]
 DocumentPath=Brduino-Nano.PcbDoc
@@ -263,36 +263,36 @@ DocumentPath=Project Outputs for Brduino-Nano\Design Rule Check - Brduino-Nano.h
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Project_CheckedBy
-Value=Hören
+Name=project_Team
+Value=RevisionOne
 
 [Parameter2]
-Name=Project_DrawnBy
-Value=Mörz
+Name=Project_Revision
+Value=V1.1
 
 [Parameter3]
-Name=Project_Engineer
-Value=Mörz
-
-[Parameter4]
-Name=Project_Name
-Value=Brduino-Nano
-
-[Parameter5]
-Name=Project_Number
-Value=U33115
-
-[Parameter6]
 Name=Project_Repository
 Value=https://github.com/Semi-ATE/Brduino-Nano
 
+[Parameter4]
+Name=Project_Number
+Value=U33115
+
+[Parameter5]
+Name=Project_Name
+Value=Brduino-Nano
+
+[Parameter6]
+Name=Project_Engineer
+Value=Mörz
+
 [Parameter7]
-Name=Project_Revision
-Value=V1.0
+Name=Project_DrawnBy
+Value=Mörz
 
 [Parameter8]
-Name=project_Team
-Value=RevisionOne
+Name=Project_CheckedBy
+Value=Hören
 
 [Configuration1]
 Name=Sources
@@ -606,6 +606,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -1314,16 +1326,100 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=1
+SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=SchLib1.SCHLIB
-ComponentDesignItemID0=MK22FN512VLH12
-ComponentSymbolReference0=MK22FN512VLH12
+ComponentLibraryIdentifier0=Brduino-Nano.SCHLIB
+ComponentDesignItemID0=ARDUINO-NANO-CON
+ComponentSymbolReference0=ARDUINO-NANO-CON
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Brduino-Nano.SCHLIB
+ComponentDesignItemID1=CAP
+ComponentSymbolReference1=CAP
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Brduino-Nano.SCHLIB
+ComponentDesignItemID2=CM7V-T1A
+ComponentSymbolReference2=CM7V-T1A
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Brduino-Nano.SCHLIB
+ComponentDesignItemID3=DUALSDIODE-CC
+ComponentSymbolReference3=DUALSDIODE-CC
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Brduino-Nano.SCHLIB
+ComponentDesignItemID4=FA-238
+ComponentSymbolReference4=FA-238
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Brduino-Nano.SCHLIB
+ComponentDesignItemID5=FERRITE
+ComponentSymbolReference5=FERRITE
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Brduino-Nano.SCHLIB
+ComponentDesignItemID6=JLINK-NEEDLE
+ComponentSymbolReference6=JLINK-NEEDLE
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Brduino-Nano.SCHLIB
+ComponentDesignItemID7=Jumper
+ComponentSymbolReference7=Jumper
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Brduino-Nano.SCHLIB
+ComponentDesignItemID8=LED
+ComponentSymbolReference8=LED
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Brduino-Nano.SCHLIB
+ComponentDesignItemID9=MICRO-USB
+ComponentSymbolReference9=MICRO-USB
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Brduino-Nano.SCHLIB
+ComponentDesignItemID10=MK22FN512VLH12
+ComponentSymbolReference10=MK22FN512VLH12
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Brduino-Nano.SCHLIB
+ComponentDesignItemID11=MOSFET-N-D
+ComponentSymbolReference11=MOSFET-N-D
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Brduino-Nano.SCHLIB
+ComponentDesignItemID12=RES1A
+ComponentSymbolReference12=RES1A
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Brduino-Nano.SCHLIB
+ComponentDesignItemID13=TPS7A8300
+ComponentSymbolReference13=TPS7A8300
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=Brduino-Nano.SCHLIB
+ComponentDesignItemID14=TSW-115-08-F-S
+ComponentSymbolReference14=TSW-115-08-F-S
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1359,13 +1455,105 @@ ParameterName9=Parameters
 ParameterUpdate9=1
 ParameterName10=POPULATED
 ParameterUpdate10=1
-ParameterName11=Value
+ParameterName11=Revision
 ParameterUpdate11=1
+ParameterName12=Value
+ParameterUpdate12=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=NXP-SOT1699-1
+ModelName0=ARDUINO-NANO
 ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=C0402
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=C0402-0.55
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=C0603
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=C0805
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=C0805-1.4
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=C0805-1.45
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=C1206
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=C1210
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=C1812
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=C1825
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=CM7V-T1A
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=FA-238
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=JLINK-NEEDLE
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=JumperSMD
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=L0805
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=LED0603
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=Molex-0565790519
+ModelUpdate17=1
+ModelType18=PCBLIB
+ModelName18=NXP-SOT1699-1
+ModelUpdate18=1
+ModelType19=PCBLIB
+ModelName19=R0402
+ModelUpdate19=1
+ModelType20=PCBLIB
+ModelName20=R0402-0.4
+ModelUpdate20=1
+ModelType21=PCBLIB
+ModelName21=R0603
+ModelUpdate21=1
+ModelType22=PCBLIB
+ModelName22=R0805
+ModelUpdate22=1
+ModelType23=PCBLIB
+ModelName23=R1206
+ModelUpdate23=1
+ModelType24=PCBLIB
+ModelName24=R1210
+ModelUpdate24=1
+ModelType25=PCBLIB
+ModelName25=R2010
+ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=R2512
+ModelUpdate26=1
+ModelType27=PCBLIB
+ModelName27=SMD 0.8x0.8
+ModelUpdate27=1
+ModelType28=PCBLIB
+ModelName28=SOT23
+ModelUpdate28=1
+ModelType29=PCBLIB
+ModelName29=SOT323
+ModelUpdate29=1
+ModelType30=PCBLIB
+ModelName30=S-PVQFN-N20
+ModelUpdate30=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
