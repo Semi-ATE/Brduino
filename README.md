@@ -37,3 +37,4 @@ Connecting from your IDE to the Brduino is done via a [JLink Pro](https://www.se
 
 The project is realized in [Altium Designer](https://www.altium.com/altium-designer/), but, as the gerbers are included in the repo, you can produce the Brduino yourself without having Altium license(s), or alternatively you can contact [Thomas Arul](thomasarul@likom.com.my) at [Likom](http://www.likom.com.my/) to get a quote for these things. 
 
+When creating a project based on the Brduino-Nano, you can create a a new repository base on the [Brduino-Nano-Template](https://github.com/Semi-ATE/Brduino-Nano-Template) repository, this way you get all the 'goodies' out of the box.
